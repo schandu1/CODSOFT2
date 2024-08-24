@@ -1,1 +1,2 @@
-# CODSOFT2
+ CODSOFT2
+ Task 2:Landing page
